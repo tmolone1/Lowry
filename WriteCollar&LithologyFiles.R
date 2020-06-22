@@ -20,7 +20,7 @@ chars<- chars %>%
   group_by(LOCATION) %>%
   summarize_each(funs(Mode))
 
-#summarize each numeric varialbe as the mean of all records for that location
+#summarize each numeric variable as the mean of all records for that location
 #this is instead of taking most recent year surveyed.  
 # some points have multiple records from same year, e.g. BG-MW01, has separate records GRND, TOC, and PVC survey all in 2005
 # XYs for each are subtlely different.  How do we decide which XY to use?  
@@ -35,11 +35,18 @@ nums<- nums %>%
 
 collar<-merge(chars, nums, by="LOCATION")
 
+#create table to identify unique lithologies and assign which are mapped to coarse in fine_coarse variable
+v<-rep("Fine",length(unique(lith$Valid_Lith)))
+v[c(2,5,7)] <- "Coarse"  # check this and edit it if necessary based on geology
+df<-data.frame(cbind(unique(lith$Valid_Lith),v))
+lith$fine_coarse <- "Fine"
+lith[lith$Valid_Lith %in% df$V1[df$v=="Coarse"],"fine_coarse"] <- "Coarse"
+
 
 write_csv(collar, "collar.csv")
 write_csv(lith,"Lithology.csv")
 Wells_points <- SpatialPointsDataFrame(collar[,c(12,11)], 
                                        data= collar,
                                        proj4string = CRS("+init=ESRI:102654")) # colorado state plane central NAD83
-## use this to write a shapefile of the wells if desired:
-#writeOGR(Wells_points, dsn="M:/ItoN/MidnightSunTrinityJV/Modeling/Shapefiles", layer = "Wells_points", driver = "ESRI Shapefile", overwrite_layer=TRUE)
+# # use this to write a shapefile of the wells if desired:
+# writeOGR(Wells_points, dsn="M:/ItoN/MidnightSunTrinityJV/Modeling/Shapefiles", layer = "Wells_points", driver = "ESRI Shapefile", overwrite_layer=TRUE)
