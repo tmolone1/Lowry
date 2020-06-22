@@ -1,0 +1,333 @@
+Hole ID,From,To,Lithology,2nd lithology,comment,Valid_Lith,fine_coarse,Sequence_Strat
+MW-3,0,3.5,Clay,NA,NA,Clay,Fine,Clay II
+MW-3,3.5,8.8,Sand,NA,NA,Sand,Coarse,Sand II
+MW-3,8.8,34,Clay,NA,NA,Clay,Fine,Clay I
+MW-3,34,40,Sand,NA,NA,Sand,Coarse,Sand I
+MW-3,40,44,Clayey Sand,Sandy Clay,NA,Clayey Sand,Coarse,Clayey Sand I
+MW-3,44,55,Clay,NA,NA,Clay,Fine,Basal Clay
+MW-3,55,56,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+MW-2,0,0.5,Clay,NA,NA,Clay,Fine,Clay II
+MW-2,0.5,5,Sand,NA,NA,Sand,Coarse,Clayey Sand IV
+MW-2,5,6,Clay,NA,NA,Clay,Fine,Clayey Sand IV
+MW-2,6,19,Sand,NA,NA,Sand,Coarse,Sand II
+MW-2,19,29.5,Silty Clay,Clayey SLT,NA,Silty Clay,Fine,Clay I
+MW-2,29.5,34,Clay,Slightly Silty,NA,Clay,Fine,Clayey Sand II
+MW-2,34,34.9,Sand,NA,NA,Sand,Coarse,Clayey Sand II
+MW-2,34.9,44,Clay,NA,NA,Clay,Fine,Clayey Sand II
+MW-2,44,60,Sand,NA,NA,Sand,Coarse,Sand I
+MW-2,60,61,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+MW-14,0,5,Silty clay with sand,NA,"check these close, they are hand written (MW14 and MW-15)",Silty clay,Fine,Clay II
+MW-14,5,14,Silty sand,NA,NA,Sand,Coarse,Sand II
+MW-14,14,27.4,Clay,NA,NA,Clay,Fine,Clay I
+MW-14,27.4,34,Gray silty clay,NA,NA,Silty Clay,Fine,Clay I
+MW-14,34,45,Gray salt & pepper sand,NA,really?,Sand,Coarse,Sand I
+MW-14,45,55,Claystone,NA,NA,Claystone,Fine,Basal Clay
+MW-14,55,56,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-48,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-48,4,12,Sand,NA,NA,Sand,Coarse,Sand II
+IP-48,12,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-48,20,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-48,28,38,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-48,38,46,Sand,NA,NA,Sand,Coarse,Sand I
+IP-48,46,47,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-47,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-47,4,12,Sand,NA,NA,Sand,Coarse,Sand II
+IP-47,12,14,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-47,14,18,Clay,NA,NA,Clay,Fine,Clayey Sand III
+IP-47,18,22,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-47,22,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-47,28,35,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-47,35,48,Sand,NA,NA,Sand,Coarse,Sand I
+IP-47,48,49,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-46,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-46,6,12,Sand,NA,NA,Sand,Coarse,Sand II
+IP-46,12,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-46,20,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-46,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-46,34,50,Sand,NA,NA,Sand,Coarse,Sand I
+IP-46,50,51,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-45,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-45,6,10,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-45,10,14,Clay,NA,NA,Clay,Fine,Clay Ia
+IP-45,14,30,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-45,30,34,Clay,NA,NA,Clay,Fine,Clay I
+IP-45,34,38,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-45,38,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-45,42,46,Clay,NA,NA,Clay,Fine,Clayey Sand I
+IP-45,46,52,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-45,52,53,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-44,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-44,6,10,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-44,10,16,Sand,NA,NA,Sand,Coarse,Sand II
+IP-44,16,22,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-44,22,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-44,30,38,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-44,38,48,Sand,NA,NA,Sand,Coarse,Sand I 
+IP-44,48,49,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-43,0,8,Clay,NA,NA,Clay,Fine,Clay II
+IP-43,8,18,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-43,18,32,Clay,NA,NA,Clay,Fine,Clay I
+IP-43,32,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-43,40,42,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-43,42,44,Clay,NA,NA,Clay,Fine,Clayey Sand I
+IP-43,44,46,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-43,46,47,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-42,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-42,6,16,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-42,16,22,Clay,NA,NA,Clay,Fine,Clay I
+IP-42,22,24,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clay I
+IP-42,24,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-42,30,32,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-42,32,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-42,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-40,0,5,Clay,NA,NA,Clay,Fine,Clay II
+IP-40,5,10,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-40,10,18,Sand,NA,NA,Sand,Coarse,Sand II
+IP-40,18,29,Clay,NA,NA,Clay,Fine,Clay I
+IP-40,29,31,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-40,31,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-40,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-39,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-39,4,14,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-39,14,20,Clay,NA,NA,Clay,Fine,Clay I
+IP-39,20,24,Sand,NA,NA,Sand,Coarse,Clayey Sand II
+IP-39,24,42,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-39,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-38,0,14,Clay,NA,NA,Clay,Fine,Clay II
+IP-38,14,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-38,20,29,Clay,NA,NA,Clay,Fine,Clay I
+IP-38,29,32,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-38,32,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-38,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-37,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-37,6,16,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-37,16,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-37,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-37,34,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-37,40,41,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-35,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-35,6,12,Sand,NA,NA,Sand,Coarse,Sand II
+IP-35,12,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-35,20,24,Clay,NA,NA,Clay,Fine,Clay I
+IP-35,24,31,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-35,31,48,Sand,NA,NA,Sand,Coarse,Sand I
+IP-35,48,49,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-34,0,5,Clay,NA,NA,Clay,Fine,Clay II
+IP-34,5,14,Sand,NA,NA,Sand,Coarse,Sand II
+IP-34,14,18,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-34,18,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-34,30,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-34,44,50,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-34,50,51,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-33,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-33,4,10,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-33,10,16,Sand,NA,NA,Sand,Coarse,Sand II
+IP-33,16,18,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-33,18,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-33,30,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-33,42,46,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-33,46,47,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-32,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-32,4,12,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-32,12,20,Sand,NA,NA,Sand,Coarse,Sand II
+IP-32,20,24,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-32,24,32,Clay,NA,NA,Clay,Fine,Clay I
+IP-32,32,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-32,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-31,0,2,Clay,NA,NA,Clay,Fine,Clay II
+IP-31,2,15,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-31,15,24,Clay,NA,NA,Clay,Fine,Clay I
+IP-31,24,28,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-31,28,38,Sand,NA,NA,Sand,Coarse,Sand I
+IP-31,38,42,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-31,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-30,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-30,4,8,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-30,8,21,Clay,NA,NA,Clay,Fine,Clay I
+IP-30,21,26,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-30,26,36,Sand,NA,NA,Sand,Coarse,Sand I
+IP-30,36,42,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-30,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-29,0,8,Clay,NA,NA,Clay,Fine,Clay II
+IP-29,8,16,Sand,NA,NA,Sand,Coarse,Sand II
+IP-29,16,22,Clay,NA,NA,Clay,Fine,Clay I
+IP-29,22,25,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-29,25,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-29,40,41,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-28,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-28,4,9,Sand,NA,NA,Sand,Coarse,Sand II
+IP-28,9,19,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-28,19,24,Clay,NA,NA,Clay,Fine,Clay I
+IP-28,24,28,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-28,28,36,Sand,NA,NA,Sand,Coarse,Sand I
+IP-28,36,37,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-27,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-27,6,11,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-27,11,18,Sand,NA,NA,Sand,Coarse,Sand II
+IP-27,18,23,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-27,23,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-27,28,32,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-27,32,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-27,40,41,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-26,0,7,Clay,NA,NA,Clay,Fine,Clay II
+IP-26,7,14,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-26,14,18,Sand,NA,NA,Sand,Coarse,Sand II
+IP-26,18,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-26,28,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-26,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-25,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-25,6,12,Sand,NA,NA,Sand,Coarse,Sand II
+IP-25,12,24,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-25,24,31,Clay,NA,NA,Clay,Fine,Clay I
+IP-25,31,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-25,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-24,0,5,Clay,NA,NA,Clay,Fine,Clay II
+IP-24,5,10,Sand,NA,NA,Sand,Coarse,Sand II
+IP-24,10,16,Clay,NA,NA,Clay,Fine,Clayey Sand III
+IP-24,16,24,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-24,24,32,Clay,NA,NA,Clay,Fine,Clay I
+IP-24,32,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-24,40,41,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-23,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-23,6,12,Sand,NA,NA,Sand,Coarse,Sand II
+IP-23,12,22,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-23,22,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-23,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-23,34,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-23,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-22,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-22,4,16,Sand,NA,NA,Sand,Coarse,Sand II
+IP-22,16,26,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-22,26,31,Clay,NA,NA,Clay,Fine,Clay I
+IP-22,31,34,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-22,34,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-22,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-22,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-18,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-18,4,16,Sand,NA,NA,Sand,Coarse,Sand II
+IP-18,16,21,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-18,21,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-18,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-18,34,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-18,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-18,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-17,0,2,Clay,NA,NA,Clay,Fine,Clay II
+IP-17,2,8,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-17,8,13,Sand,NA,NA,Sand,Coarse,Sand II
+IP-17,13,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-17,20,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-17,30,37,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-16,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-16,6,11,Sand,NA,NA,Sand,Coarse,Sand II
+IP-16,11,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-16,20,33,Sand,NA,NA,Sand,Coarse,Sand I
+IP-16,33,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-16,40,41,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-15,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-15,6,14,Sand,NA,NA,Sand,Coarse,Sand II
+IP-15,14,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-15,20,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-15,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-15,34,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-15,40,41,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-14,0,4,Clay,NA,NA,Clay,Fine,Clay II
+IP-14,4,10,Sand,NA,NA,Sand,Coarse,Sand II
+IP-14,10,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-14,20,31,Clay,NA,NA,Clay,Fine,Clay I
+IP-14,31,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-14,40,41,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-13,0,3,Clay,NA,NA,Clay,Fine,Clay II
+IP-13,3,10,Sand,NA,NA,Sand,Coarse,Sand II
+IP-13,10,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-13,20,31,Clay,NA,NA,Clay,Fine,Clay I
+IP-13,31,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-13,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-12,0,3,Clay,NA,NA,Clay,Fine,Clay II
+IP-12,3,10,Sand,NA,NA,Sand,Coarse,Sand II
+IP-12,10,18,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-12,18,31,Clay,NA,NA,Clay,Fine,Clay I
+IP-12,31,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-12,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-11,0,3,Clay,NA,NA,Clay,Fine,Clay II
+IP-11,3,7,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-11,7,8,Clay,NA,NA,Clay,Fine,Clayey Sand IV
+IP-11,8,10,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-11,10,16,Sand,NA,NA,Sand,Coarse,Sand II
+IP-11,16,20,Clay,NA,NA,Clay,Fine,Clayey Sand III
+IP-11,20,24,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-11,24,32,Clay,NA,NA,Clay,Fine,Clay I
+IP-11,32,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-11,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-10,0,5,Clay,NA,NA,Clay,Fine,Clay II
+IP-10,5,10,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-10,10,17,Sand,NA,NA,Sand,Coarse,Sand II
+IP-10,17,33,Clay,NA,NA,Clay,Fine,Clay I
+IP-10,33,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-10,40,41,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-09,0,3,Clay,NA,NA,Clay,Fine,Clay II
+IP-09,3,8,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-09,8,12,Clay,NA,NA,Clay,Fine,Clay Ia
+IP-09,12,18,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-09,18,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-09,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-09,34,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-09,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-08,0,2,Clay,NA,NA,Clay,Fine,Clay II
+IP-08,2,9,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-08,9,12,Clay,NA,NA,Clay,Fine,Clay Ia
+IP-08,12,20,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-08,20,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-08,30,44,Sand,NA,NA,Sand,Coarse,Sand I
+IP-08,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-07,0,5,Clay,NA,NA,Clay,Fine,Clay II
+IP-07,5,18,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-07,18,30,Clay,NA,NA,Clay,Fine,Clay I
+IP-07,30,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-07,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-07,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-06,0,7,Clay,NA,NA,Clay,Fine,Clay II
+IP-06,7,14,Sand,NA,NA,Sand,Coarse,Sand II
+IP-06,14,17,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-06,17,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-06,28,32,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-06,32,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-06,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-05,0,6,Clay,NA,NA,Clay,Fine,Clay II
+IP-05,6,13,Sand,NA,NA,Sand,Coarse,Sand II
+IP-05,13,17,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-05,17,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-05,28,32,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-05,32,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-05,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-04,0,2,Clay,NA,NA,Clay,Fine,Clay II
+IP-04,2,13,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-04,13,16,Sand,NA,NA,Sand,Coarse,Sand II
+IP-04,16,22,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-04,22,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-04,28,30,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand II
+IP-04,30,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-04,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-03,0,2,Clay,NA,NA,Clay,Fine,Clay II
+IP-03,2,6,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-03,6,10,Sand,NA,NA,Sand,Coarse,Sand II
+IP-03,10,16,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-03,16,18,Sand,NA,NA,Sand,Coarse,Clayey Sand III
+IP-03,18,22,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand III
+IP-03,22,32,Clay,NA,NA,Clay,Fine,Clay I
+IP-03,32,42,Sand,NA,NA,Sand,Coarse,Sand I
+IP-03,42,43,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-02,0,2,Clay,NA,NA,Clay,Fine,Clay II
+IP-02,2,10,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-02,10,20,Sand,NA,NA,Sand,Coarse,Sand II
+IP-02,20,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-02,28,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-02,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-02,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay
+IP-01,0,2,Clay,NA,NA,Clay,Fine,Clay II
+IP-01,2,8,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand IV
+IP-01,8,13,Clay,NA,NA,Clay,Fine,Clay Ia
+IP-01,13,22,Sand,NA,NA,Sand,Coarse,Sand II
+IP-01,22,28,Clay,NA,NA,Clay,Fine,Clay I
+IP-01,28,40,Sand,NA,NA,Sand,Coarse,Sand I
+IP-01,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse,Clayey Sand I
+IP-01,44,45,NA,NA,NA,Termination/Refusal,Fine,Basal Clay

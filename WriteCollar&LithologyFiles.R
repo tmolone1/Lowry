@@ -42,9 +42,18 @@ df<-data.frame(cbind(unique(lith$Valid_Lith),v))
 lith$fine_coarse <- "Fine"
 lith[lith$Valid_Lith %in% df$V1[df$v=="Coarse"],"fine_coarse"] <- "Coarse"
 
+#within the hi-res area, add a 1 foot fine interval at the end of each push (refusal)
+hi_res<-collar[collar[11]>1646716 & collar[11]<1647404 & collar[12] > 3258521 & collar[12] < 3259121,"LOCATION"]
+lith_mod<-lith[lith$`Hole ID` %in% hi_res,]
+refusals<-lith_mod %>%
+  group_by(`Hole ID`) %>%
+  summarize(From=max(To),To=max(To)+1,Lithology=NA,'2nd lithology'=NA,comment=NA,Valid_Lith="Termination/Refusal",fine_coarse="Fine")
+lith_mod<-rbind(lith_mod,refusals)
+lith_mod <- arrange(lith_mod, desc(lith_mod$`Hole ID`))
 
 write_csv(collar, "collar.csv")
 write_csv(lith,"Lithology.csv")
+write_csv(lith_mod,"Lithology_hi_res.csv")
 Wells_points <- SpatialPointsDataFrame(collar[,c(12,11)], 
                                        data= collar,
                                        proj4string = CRS("+init=ESRI:102654")) # colorado state plane central NAD83
