@@ -1,445 +1,533 @@
 Hole ID,From,To,Lithology,2nd lithology,comment,Valid_Lith,fine_coarse
+BG-MW01,0,4,Clayey silt,NA,NA,Clayey silt,Fine
+BG-MW01,4,11.5,Poorly graded sand,NA,NA,Sand,Coarse
+BG-MW01,11.5,37,Sandstone,NA,NA,Sandstone,Coarse
+BG-MW01,37,42.7,Silty clayey shaley,NA,NA,Shale,Fine
+BG-MW01,42.7,92.9,Sandstone,NA,NA,Sandstone,Coarse
+BG-MW01,92.9,98,Finer grained sand,NA,NA,Sandstone,Coarse
+BG-MW01,98,103,Sandstone,NA,NA,Sandstone,Coarse
+BG-MW01,103,106.4,Siltstone (sandy),NA,NA,Siltstone,Fine
+BG-MW01,106.4,114,Sandstone,NA,NA,Sandstone,Coarse
+DHD-2-13,0,3,Clay,NA,NA,Clay,Fine
+DHD-2-13,3,9,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-13,9,20,Shale/Clay,NA,NA,Shale,Fine
+DHD-2-13,20,26,Silty Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-13,26,38,Shale/Siltstone,NA,NA,Shale,Fine
+DHD-2-13,38,44,Sandstone,NA,NA,Sandstone,Coarse
+DHD-2-13,44,54,Shale/Claystone,NA,NA,Shale,Fine
+DHD-2-13,54,67,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-13,67,75,Shale,NA,NA,Shale,Fine
+DHD-2-13,75,79,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-13,79,151,Shale,NA,NA,Shale,Fine
+DHD-2-13,151,203,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-13,203,204,Shale,NA,NA,Shale,Fine
+DHD-2-14,0,5,Clay,NA,NA,Clay,Fine
+DHD-2-14,5,15,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-14,15,21,Shale,NA,NA,Shale,Fine
+DHD-2-14,21,24,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-14,24,43,Shale,NA,NA,Shale,Fine
+DHD-2-14,43,51,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-15,0,5,Clay,NA,NA,Clay,Fine
+DHD-2-15,5,14,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-15,14,29,Shale,NA,NA,Shale,Fine
+DHD-2-15,29,36,Silty Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-15,36,41,Shale,NA,NA,Shale,Fine
+DHD-2-15,41,46,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-15,46,204,Shale,NA,NA,Shale,Fine
+DHD-2-16,0,8,Clay,NA,NA,Clay,Fine
+DHD-2-16,8,28,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-16,28,34,Shale,NA,NA,Shale,Fine
+DHD-2-16,34,70,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-16,70,150,Shale,NA,NA,Shale,Fine
+DHD-2-16,150,171,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-16,171,178,Shale,NA,NA,Shale,Fine
+DHD-2-16,178,182,Sandstone,NA,NA,Sandstone,Coarse
+DHD-2-16,182,202,Shale,NA,NA,Shale,Fine
+DHD-2-17,0,7,Sandy Clay,NA,NA,Sandy Clay,Fine
+DHD-2-17,7,27,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-17,27,31,Shale,NA,NA,Shale,Fine
+DHD-2-17,31,71,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-17,71,135,Shale,NA,NA,Shale,Fine
+DHD-2-17,135,186,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-17,186,191,Shale,NA,NA,Shale,Fine
+DHD-2-17,191,200,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-17,200,201,Shale,NA,NA,Shale,Fine
+DHD-2-18,0,4,Clay,NA,NA,Clay,Fine
+DHD-2-18,4,14,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-18,14,20,Shale,NA,NA,Shale,Fine
+DHD-2-18,20,25,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-18,25,32,Shale,NA,NA,Shale,Fine
+DHD-2-18,32,38,Sandy Claystone,NA,NA,Sandy Claystone,Fine
+DHD-2-18,38,40,Shale,NA,NA,Shale,Fine
+DHD-2-18,40,48,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-18,48,50,Shale,NA,NA,Shale,Fine
+DHD-2-19,0,12,Clay,NA,NA,Clay,Fine
+DHD-2-19,12,38,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-19,38,41,Shale,NA,NA,Shale,Fine
+DHD-2-19,41,44,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-19,44,51,Shale,NA,NA,Shale,Fine
+DHD-2-20,0,10,Clay,NA,NA,Clay,Fine
+DHD-2-20,10,14,Sandy Claystone,NA,NA,Sandy Claystone,Fine
+DHD-2-20,14,26,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-20,26,30,Shale,NA,NA,Shale,Fine
+DHD-2-20,30,69,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-20,69,100,Shale,NA,NA,Shale,Fine
+DHD-2-21,0,5,Sandy Clay,NA,NA,Sandy Clay,Fine
+DHD-2-21,5,15,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-21,15,20,Shale,NA,NA,Shale,Fine
+DHD-2-21,20,51,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-22,0,6,Clay,NA,NA,Clay,Fine
+DHD-2-22,6,10,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-22,10,14,Sandstone,NA,NA,Sandstone,Coarse
+DHD-2-22,14,18.5,Siltstone,NA,NA,Siltstone,Fine
+DHD-2-22,18.5,35,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-22,35,37,Sandstone,NA,NA,Sandstone,Coarse
+DHD-2-22,37,42,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-22,42,44,Claystone,NA,NA,Shale,Fine
+DHD-2-22,44,75,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-23,0,7.5,Clay,NA,NA,Clay,Fine
+DHD-2-23,7.5,16,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-23,16,22,Claystone/Shale,NA,NA,Shale,Fine
+DHD-2-23,22,33,Sandstone,NA,NA,Sandstone,Coarse
+DHD-2-23,33,36,Sandy Siltstone,NA,NA,Sandy Siltstone,Fine
+DHD-2-23,36,40,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-23,40,46,Sandy Siltstone/Shaley,NA,NA,Sandy Siltstone,Fine
+DHD-2-23,46,62,Clayey Sandstone,NA,NA,Clayey Sandstone,Coarse
+DHD-2-23,62,64,Shale,NA,NA,Shale,Fine
+DHD-2-23,64,74,Sandstone (clay + silty),NA,NA,Sandstone,Coarse
+DHD-2-23,74,122,Shale,NA,NA,Shale,Fine
+IP-01,0,2,Clay,NA,NA,Clay,Fine
+IP-01,2,8,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-01,8,13,Clay,NA,NA,Shale,Fine
+IP-01,13,22,Sand,NA,NA,Sandstone,Coarse
+IP-01,22,28,Clay,NA,NA,Shale,Fine
+IP-01,28,40,Sand,NA,NA,Sandstone,Coarse
+IP-01,40,44,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-02,0,2,Clay,NA,NA,Clay,Fine
+IP-02,2,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-02,10,20,Sand,NA,NA,Sandstone,Coarse
+IP-02,20,28,Clay,NA,NA,Shale,Fine
+IP-02,28,40,Sand,NA,NA,Sandstone,Coarse
+IP-02,40,44,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-03,0,2,Clay,NA,NA,Clay,Fine
+IP-03,2,6,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-03,6,10,Sand,NA,NA,Sand,Coarse
+IP-03,10,16,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-03,16,18,Sand,NA,NA,Sandstone,Coarse
+IP-03,18,22,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-03,22,32,Clay,NA,NA,Shale,Fine
+IP-03,32,42,Sand,NA,NA,Sandstone,Coarse
+IP-04,0,2,Clay,NA,NA,Clay,Fine
+IP-04,2,13,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-04,13,16,Sand,NA,NA,Sandstone,Coarse
+IP-04,16,22,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-04,22,28,Clay,NA,NA,Shale,Fine
+IP-04,28,30,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-04,30,42,Sand,NA,NA,Sandstone,Coarse
+IP-05,0,6,Clay,NA,NA,Clay,Fine
+IP-05,6,13,Sand,NA,NA,Sand,Coarse
+IP-05,13,17,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-05,17,28,Clay,NA,NA,Shale,Fine
+IP-05,28,32,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-05,32,42,Sand,NA,NA,Sandstone,Coarse
+IP-06,0,7,Clay,NA,NA,Clay,Fine
+IP-06,7,14,Sand,NA,NA,Sandstone,Coarse
+IP-06,14,17,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-06,17,28,Clay,NA,NA,Shale,Fine
+IP-06,28,32,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-06,32,42,Sand,NA,NA,Sandstone,Coarse
+IP-07,0,5,Clay,NA,NA,Clay,Fine
+IP-07,5,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-07,18,30,Clay,NA,NA,Shale,Fine
+IP-07,30,40,Sand,NA,NA,Sandstone,Coarse
+IP-07,40,44,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-08,0,2,Clay,NA,NA,Clay,Fine
+IP-08,2,9,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-08,9,12,Clay,NA,NA,Shale,Fine
+IP-08,12,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-08,20,30,Clay,NA,NA,Shale,Fine
+IP-08,30,44,Sand,NA,NA,Sandstone,Coarse
+IP-09,0,3,Clay,NA,NA,Clay,Fine
+IP-09,3,8,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-09,8,12,Clay,NA,NA,Shale,Fine
+IP-09,12,18,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-09,18,30,Clay,NA,NA,Shale,Fine
+IP-09,30,34,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-09,34,44,Sand,NA,NA,Sandstone,Coarse
+IP-10,0,5,Clay,NA,NA,Clay,Fine
+IP-10,5,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-10,10,17,Sand,NA,NA,Sandstone,Coarse
+IP-10,17,33,Clay,NA,NA,Shale,Fine
+IP-10,33,40,Sand,NA,NA,Sandstone,Coarse
+IP-11,0,3,Clay,NA,NA,Clay,Fine
+IP-11,3,7,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-11,7,8,Clay,NA,NA,Shale,Fine
+IP-11,8,10,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-11,10,16,Sand,NA,NA,Sandstone,Coarse
+IP-11,16,20,Clay,NA,NA,Shale,Fine
+IP-11,20,24,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-11,24,32,Clay,NA,NA,Shale,Fine
+IP-11,32,44,Sand,NA,NA,Sandstone,Coarse
+IP-12,0,3,Clay,NA,NA,Clay,Fine
+IP-12,3,10,Sand,NA,NA,Sand,Coarse
+IP-12,10,18,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-12,18,31,Clay,NA,NA,Shale,Fine
+IP-12,31,44,Sand,NA,NA,Sandstone,Coarse
+IP-13,0,3,Clay,NA,NA,Clay,Fine
+IP-13,3,10,Sand,NA,NA,Sand,Coarse
+IP-13,10,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-13,20,31,Clay,NA,NA,Shale,Fine
+IP-13,31,44,Sand,NA,NA,Sandstone,Coarse
+IP-14,0,4,Clay,NA,NA,Clay,Fine
+IP-14,4,10,Sand,NA,NA,Sand,Coarse
+IP-14,10,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-14,20,31,Clay,NA,NA,Shale,Fine
+IP-14,31,40,Sand,NA,NA,Sandstone,Coarse
+IP-15,0,6,Clay,NA,NA,Clay,Fine
+IP-15,6,14,Sand,NA,NA,Sand,Coarse
+IP-15,14,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-15,20,30,Clay,NA,NA,Shale,Fine
+IP-15,30,34,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-15,34,40,Sand,NA,NA,Sandstone,Coarse
+IP-16,0,6,Clay,NA,NA,Clay,Fine
+IP-16,6,11,Sand,NA,NA,Sand,Coarse
+IP-16,11,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-16,20,33,Sand,NA,NA,Sandstone,Coarse
+IP-16,33,40,Sand,NA,NA,Sandstone,Coarse
+IP-17,0,2,Clay,NA,NA,Clay,Fine
+IP-17,2,8,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-17,8,13,Sand,NA,NA,Sandstone,Coarse
+IP-17,13,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-17,20,30,Clay,NA,NA,Shale,Fine
+IP-17,30,37,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-18,0,4,Clay,NA,NA,Clay,Fine
+IP-18,4,16,Sand,NA,NA,Sand,Coarse
+IP-18,16,21,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-18,21,30,Clay,NA,NA,Shale,Fine
+IP-18,30,34,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-18,34,40,Sand,NA,NA,Sandstone,Coarse
+IP-18,40,44,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-22,0,4,Clay,NA,NA,Clay,Fine
+IP-22,4,16,Sand,NA,NA,Sand,Coarse
+IP-22,16,26,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-22,26,31,Clay,NA,NA,Shale,Fine
+IP-22,31,34,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-22,34,40,Sand,NA,NA,Sandstone,Coarse
+IP-22,40,44,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-23,0,6,Clay,NA,NA,Clay,Fine
+IP-23,6,12,Sand,NA,NA,Sand,Coarse
+IP-23,12,22,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-23,22,30,Clay,NA,NA,Shale,Fine
+IP-23,30,34,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-23,34,42,Sand,NA,NA,Sandstone,Coarse
+IP-24,0,5,Clay,NA,NA,Clay,Fine
+IP-24,5,10,Sand,NA,NA,Sand,Coarse
+IP-24,10,16,Clay,NA,NA,Shale,Fine
+IP-24,16,24,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-24,24,32,Clay,NA,NA,Shale,Fine
+IP-24,32,40,Sand,NA,NA,Sandstone,Coarse
+IP-25,0,6,Clay,NA,NA,Clay,Fine
+IP-25,6,12,Sand,NA,NA,Sand,Coarse
+IP-25,12,24,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-25,24,31,Clay,NA,NA,Shale,Fine
+IP-25,31,42,Sand,NA,NA,Sandstone,Coarse
+IP-26,0,7,Clay,NA,NA,Clay,Fine
+IP-26,7,14,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-26,14,18,Sand,NA,NA,Sandstone,Coarse
+IP-26,18,28,Clay,NA,NA,Shale,Fine
+IP-26,28,42,Sand,NA,NA,Sandstone,Coarse
+IP-27,0,6,Clay,NA,NA,Clay,Fine
+IP-27,6,11,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-27,11,18,Sand,NA,NA,Sandstone,Coarse
+IP-27,18,23,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-27,23,28,Clay,NA,NA,Shale,Fine
+IP-27,28,32,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-27,32,40,Sand,NA,NA,Sandstone,Coarse
+IP-28,0,4,Clay,NA,NA,Clay,Fine
+IP-28,4,9,Sand,NA,NA,Sand,Coarse
+IP-28,9,19,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-28,19,24,Clay,NA,NA,Shale,Fine
+IP-28,24,28,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-28,28,36,Sand,NA,NA,Sandstone,Coarse
+IP-29,0,8,Clay,NA,NA,Clay,Fine
+IP-29,8,16,Sand,NA,NA,Sandstone,Coarse
+IP-29,16,22,Clay,NA,NA,Shale,Fine
+IP-29,22,25,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-29,25,40,Sand,NA,NA,Sandstone,Coarse
+IP-30,0,4,Clay,NA,NA,Clay,Fine
+IP-30,4,8,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-30,8,21,Clay,NA,NA,Shale,Fine
+IP-30,21,26,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-30,26,36,Sand,NA,NA,Sandstone,Coarse
+IP-30,36,42,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-31,0,2,Clay,NA,NA,Clay,Fine
+IP-31,2,15,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-31,15,24,Clay,NA,NA,Shale,Fine
+IP-31,24,28,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-31,28,38,Sand,NA,NA,Sandstone,Coarse
+IP-31,38,42,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-32,0,4,Clay,NA,NA,Clay,Fine
+IP-32,4,12,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-32,12,20,Sand,NA,NA,Sandstone,Coarse
+IP-32,20,24,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-32,24,32,Clay,NA,NA,Shale,Fine
+IP-32,32,42,Sand,NA,NA,Sandstone,Coarse
+IP-33,0,4,Clay,NA,NA,Clay,Fine
+IP-33,4,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-33,10,16,Sand,NA,NA,Sandstone,Coarse
+IP-33,16,18,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-33,18,30,Clay,NA,NA,Shale,Fine
+IP-33,30,42,Sand,NA,NA,Sandstone,Coarse
+IP-33,42,46,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-34,0,5,Clay,NA,NA,Clay,Fine
+IP-34,5,14,Sand,NA,NA,Sand,Coarse
+IP-34,14,18,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-34,18,30,Clay,NA,NA,Shale,Fine
+IP-34,30,44,Sand,NA,NA,Sandstone,Coarse
+IP-34,44,50,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-35,0,6,Clay,NA,NA,Clay,Fine
+IP-35,6,12,Sand,NA,NA,Sand,Coarse
+IP-35,12,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-35,20,24,Clay,NA,NA,Shale,Fine
+IP-35,24,31,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-35,31,48,Sand,NA,NA,Sandstone,Coarse
+IP-37,0,6,Clay,NA,NA,Clay,Fine
+IP-37,6,16,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-37,16,30,Clay,NA,NA,Shale,Fine
+IP-37,30,34,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-37,34,40,Sand,NA,NA,Sandstone,Coarse
+IP-38,0,14,Clay,NA,NA,Clay,Fine
+IP-38,14,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-38,20,29,Clay,NA,NA,Shale,Fine
+IP-38,29,32,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-38,32,44,Sand,NA,NA,Sandstone,Coarse
+IP-39,0,4,Clay,NA,NA,Clay,Fine
+IP-39,4,14,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-39,14,20,Clay,NA,NA,Shale,Fine
+IP-39,20,24,Sand,NA,NA,Sandstone,Coarse
+IP-39,24,42,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-40,0,5,Clay,NA,NA,Clay,Fine
+IP-40,5,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-40,10,18,Sand,NA,NA,Sandstone,Coarse
+IP-40,18,29,Clay,NA,NA,Shale,Fine
+IP-40,29,31,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-40,31,44,Sand,NA,NA,Sandstone,Coarse
+IP-42,0,6,Clay,NA,NA,Clay,Fine
+IP-42,6,16,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-42,16,22,Clay,NA,NA,Shale,Fine
+IP-42,22,24,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-42,24,30,Clay,NA,NA,Shale,Fine
+IP-42,30,32,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-42,32,44,Sand,NA,NA,Sandstone,Coarse
+IP-43,0,8,Clay,NA,NA,Clay,Fine
+IP-43,8,18,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-43,18,32,Clay,NA,NA,Shale,Fine
+IP-43,32,40,Sand,NA,NA,Sandstone,Coarse
+IP-43,40,42,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-43,42,44,Clay,NA,NA,Shale,Fine
+IP-43,44,46,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-44,0,6,Clay,NA,NA,Clay,Fine
+IP-44,6,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-44,10,16,Sand,NA,NA,Sandstone,Coarse
+IP-44,16,22,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-44,22,30,Clay,NA,NA,Shale,Fine
+IP-44,30,38,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-44,38,48,Sand,NA,NA,Sandstone,Coarse
+IP-45,0,6,Clay,NA,NA,Clay,Fine
+IP-45,6,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-45,10,14,Clay,NA,NA,Shale,Fine
+IP-45,14,30,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-45,30,34,Clay,NA,NA,Shale,Fine
+IP-45,34,38,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-45,38,42,Sand,NA,NA,Sandstone,Coarse
+IP-45,42,46,Clay,NA,NA,Shale,Fine
+IP-45,46,52,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-46,0,6,Clay,NA,NA,Clay,Fine
+IP-46,6,12,Sand,NA,NA,Sand,Coarse
+IP-46,12,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-46,20,30,Clay,NA,NA,Shale,Fine
+IP-46,30,34,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-46,34,50,Sand,NA,NA,Sandstone,Coarse
+IP-47,0,4,Clay,NA,NA,Clay,Fine
+IP-47,4,12,Sand,NA,NA,Sand,Coarse
+IP-47,12,14,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-47,14,18,Clay,NA,NA,Shale,Fine
+IP-47,18,22,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-47,22,28,Clay,NA,NA,Shale,Fine
+IP-47,28,35,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-47,35,48,Sand,NA,NA,Sandstone,Coarse
+IP-48,0,4,Clay,NA,NA,Clay,Fine
+IP-48,4,12,Sand,NA,NA,Sand,Coarse
+IP-48,12,20,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-48,20,28,Clay,NA,NA,Shale,Fine
+IP-48,28,38,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-48,38,46,Sand,NA,NA,Sandstone,Coarse
+IP-49,0,8,Clay,NA,NA,Clay,Fine
+IP-49,8,12,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-49,12,22,Sand,NA,NA,Sandstone,Coarse
+IP-49,22,26,Clay,NA,NA,Shale,Fine
+IP-49,26,32,Clay,NA,NA,Shale,Fine
+IP-49,32,38,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-49,38,44,Sand,NA,NA,Sandstone,Coarse
+IP-49,44,50,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-51,0,6,Clay,NA,NA,Clay,Fine
+IP-51,6,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
+IP-51,10,20,Sand,NA,NA,Sandstone,Coarse
+IP-51,22,23,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-51,23,28,Sand,NA,NA,Sandstone,Coarse
+IP-51,28,32,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-51,32,36,Sand,NA,NA,Sandstone,Coarse
+IP-51,36,42,Clay,NA,NA,Shale,Fine
+IP-51,42,50,Sand,NA,NA,Sandstone,Coarse
+IP-52,0,8,Clay,NA,NA,Clay,Fine
+IP-52,8,10,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-52,10,14,Sand,NA,NA,Sandstone,Coarse
+IP-52,14,18,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-52,18,22,Sand,NA,NA,Sandstone,Coarse
+IP-52,22,32,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-52,32,40,Clay,NA,NA,Shale,Fine
+IP-52,40,44,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-52,44,52,Sand,NA,NA,Sandstone,Coarse
+IP-53,0,5,Clay,NA,NA,Clay,Fine
+IP-53,5,21,Sand,NA,NA,Sand,Coarse
+IP-53,21,30,Clay,NA,NA,Shale,Fine
+IP-53,30,40,Sand,NA,NA,Sandstone,Coarse
+IP-53,40,44,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-54,0,6,Clay,NA,NA,Clay,Fine
+IP-54,6,16,Sand,NA,NA,Sand,Coarse
+IP-54,16,28,Clay,NA,NA,Shale,Fine
+IP-54,28,40,Sand,NA,NA,Sandstone,Coarse
+IP-54,40,44,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-54,44,48,Sand,NA,NA,Sandstone,Coarse
+IP-54,48,52,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-55,0,6,Clay,NA,NA,Clay,Fine
+IP-55,6,22,Sand,NA,NA,Sand,Coarse
+IP-55,22,28,Clay,NA,NA,Shale,Fine
+IP-55,28,32,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-55,32,38,Sand,NA,NA,Sandstone,Coarse
+IP-55,38,42,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-55,42,50,Sand,NA,NA,Sandstone,Coarse
+IP-56,0,10,Clay,NA,NA,Clay,Fine
+IP-56,10,18,Sand,NA,NA,Sandstone,Coarse
+IP-56,18,24,Clay,NA,NA,Shale,Fine
+IP-56,24,30,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+IP-56,30,46,Sand,NA,NA,Sandstone,Coarse
+IP-56,46,50,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
 MW-1,0,4.4,Clay,NA,NA,Clay,Fine
 MW-1,4.4,5.7,Sand,NA,NA,Sand,Coarse
 MW-1,5.7,6.5,Clay,NA,NA,Clay,Fine
-MW-1,6.5,19.5,Sand,NA,NA,Sand,Coarse
-MW-1,19.5,29,Clay,NA,NA,Clay,Fine
-MW-1,29,34,Sand,NA,NA,Sand,Coarse
-MW-1,34,35,Silt,NA,NA,Clayey Silt,Fine
-MW-1,35,49,Sand,NA,NA,Sand,Coarse
-MW-1,49,55,Silty Clay,NA,NA,Silty Clay,Fine
-MW-1,55,60,Clay,NA,NA,Clay,Fine
-MW-1,60,65,Sand,NA,NA,Sand,Coarse
-MW-2,0,0.5,Clay,NA,NA,Clay,Fine
-MW-2,0.5,5,Sand,NA,NA,Sand,Coarse
-MW-2,5,6,Clay,NA,NA,Clay,Fine
-MW-2,6,19,Sand,NA,NA,Sand,Coarse
-MW-2,19,29.5,Silty Clay,Clayey SLT,NA,Silty Clay,Fine
-MW-2,29.5,34,Clay,Slightly Silty,NA,Clay,Fine
-MW-2,34,34.9,Sand,NA,NA,Sand,Coarse
-MW-2,34.9,44,Clay,NA,NA,Clay,Fine
-MW-2,44,60,Sand,NA,NA,Sand,Coarse
-MW-3,0,3.5,Clay,NA,NA,Clay,Fine
-MW-3,3.5,8.8,Sand,NA,NA,Sand,Coarse
-MW-3,8.8,34,Clay,NA,NA,Clay,Fine
-MW-3,34,40,Sand,NA,NA,Sand,Coarse
-MW-3,40,44,Clayey Sand,Sandy Clay,NA,Clayey Sand,Coarse
-MW-3,44,55,Clay,NA,NA,Clay,Fine
-MW-4,0,4,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-4,4,13.6,Silty Clay,Sandy Clay,"at 8.1 it says ""same as above"" Sandy Clay",Silty Clay,Fine
-MW-4,13.6,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-4,18,30.7,Silty Clay,Sandy Clay,same comment as above on line 22.2,Silty Clay,Fine
-MW-4,30.7,31,Sand,NA,NA,Sand,Coarse
-MW-4,31,31.3,Sandy Clay,NA,NA,Sandy Clay,Fine
-MW-4,31.3,44.6,Sand,NA,NA,Sand,Coarse
-MW-4,44.6,46.2,Silty Clay,NA,NA,Silty Clay,Fine
-MW-4,46.2,57.4,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-4,57.4,60,Clayey Silt,NA,NA,Clayey Silt,Fine
-MW-4,60,63.5,Clay,NA,NA,Clay,Fine
-MW-6,0,5.3,Sandy Clay,NA,NA,Sandy Clay,Fine
-MW-6,5.3,21,Sand,NA,NA,Sand,Coarse
-MW-6,21,26,Sandy Clay,NA,NA,Sandy Clay,Fine
-MW-6,26,27.5,Sand,NA,NA,Sand,Coarse
-MW-6,27.5,32.5,Sandy Clay,NA,NA,Sandy Clay,Fine
-MW-6,32.5,40.1,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-6,40.1,46.2,Sand,NA,NA,Sand,Coarse
-MW-6,41.8,46.2,Sand,NA,NA,Sand,Coarse
-MW-6,46.2,48.2,Clay,NA,NA,Clay,Fine
-MW-6,48.2,49.2,Sand,NA,NA,Sand,Coarse
-MW-6,49.2,50,Clay,Sandy Clay,NA,Clay,Fine
-MW-6,50,62.6,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-6,62.6,83,Sand,NA,NA,Sand,Coarse
-MW-6,83,84.5,Clay,NA,NA,Clay,Fine
-MW-7,0,5.5,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-7,5.5,9.1,Sandy Clay,NA,NA,Sandy Clay,Fine
-MW-7,9.1,13.4,Silty Clay,NA,NA,Silty Clay,Fine
-MW-7,13.4,15.1,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-7,15.1,26.1,Sand,NA,NA,Sand,Coarse
-MW-7,26.1,27.5,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-7,27.5,30,Sand,NA,NA,Sand,Coarse
-MW-7,30,42.8,Silty Clay,NA,NA,Silty Clay,Fine
-MW-7,42.8,51,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-7,51,59,Clay,NA,NA,Clay,Fine
-MW-7,59,64,Silty Clay,NA,NA,Silty Clay,Fine
-MW-8,0,3,Silty Clay,NA,NA,Silty Clay,Fine
-MW-8,3,8.7,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-8,8.7,11.8,Sand,NA,NA,Sand,Coarse
-MW-8,11.8,11.9,Thin Clay Bed,NA,NA,Clay,Fine
-MW-8,11.9,22.5,Sand,NA,NA,Sand,Coarse
-MW-8,22.5,34.7,Silty Clay,NA,NA,Silty Clay,Fine
-MW-8,34.7,46.7,Clayey Sand,NA,NA,Clayey Sand,Coarse
-MW-8,46.7,66,Sand,NA,NA,Sand,Coarse
-MW-8,66,69,Clay,NA,NA,Clay,Fine
-MW-9,0,12.4,Sandy Silty Clay,NA,NA,Silty Clay,Fine
-MW-9,12.4,16,Sand,NA,NA,Sand,Coarse
-MW-9,16,24.7,Sandstone,NA,NA,Sandstone,Coarse
-MW-9,24.7,28,Claystone,NA,NA,Claystone,Fine
+MW-1,6.5,19.5,Sand,NA,NA,Sandstone,Coarse
+MW-1,19.5,29,Clay,NA,NA,Shale,Fine
+MW-1,29,34,Sand,NA,NA,Sandstone,Coarse
+MW-1,34,35,Silt,NA,NA,Shale,Fine
+MW-1,35,49,Sand,NA,NA,Sandstone,Coarse
+MW-1,49,55,Silty Clay,NA,NA,Shale,Fine
+MW-1,55,60,Clay,NA,NA,Shale,Fine
+MW-1,60,65,Sand,NA,NA,Sandstone,Coarse
 MW-10,0,1,Silty Clay,NA,NA,Silty Clay,Fine
 MW-10,1,7,Clayey Silt,NA,NA,Clayey Silt,Fine
-MW-10,7,20,Sand,NA,NA,Sand,Coarse
+MW-10,7,20,Sand,NA,NA,Sandstone,Coarse
 MW-10,20,25.4,Sandstone,NA,NA,Sandstone,Coarse
-MW-10,25.4,30,"Interbedded, shaly-clay-stone",NA,NA,Claystone,Fine
+MW-10,25.4,30,"Interbedded, shaly-clay-stone",NA,NA,Shale,Fine
 MW-10,30,54.4,Sandstone,NA,NA,Sandstone,Coarse
 MW-10,54.4,60.3,"Clayey, Shaley, Siltstone",NA,NA,Siltstone,Fine
 MW-11,0,7.2,Silty Clay,NA,NA,Silty Clay,Fine
 MW-11,7.2,44.5,Sandstone,NA,NA,Sandstone,Coarse
-MW-11,44.5,59.8,"Sandy siltstone, claystone, shale",NA,NA,Sandy siltstone,Fine
+MW-11,44.5,59.8,"Sandy siltstone, claystone, shale",NA,NA,Sandy Siltstone,Fine
 MW-11,59.8,65.5,Sandstone,NA,NA,Sandstone,Coarse
-MW-11,65.5,66.5,Claystone,NA,NA,Claystone,Fine
+MW-11,65.5,66.5,Claystone,NA,NA,Shale,Fine
 MW-12,0,1,Sandy Silty Clay,NA,NA,Silty Clay,Fine
 MW-12,1,1.9,Clay,NA,NA,Clay,Fine
 MW-12,1.9,10.5,Clayey Silt,NA,NA,Clayey Silt,Fine
-MW-12,10.5,12.7,Sand,NA,NA,Sand,Coarse
+MW-12,10.5,12.7,Sand,NA,NA,Sandstone,Coarse
 MW-12,12.7,25,Sandstone,NA,NA,Sandstone,Coarse
 MW-12,25,33.8,Siltstone,NA,NA,Siltstone,Fine
 MW-12,33.8,48.8,Sandstone,NA,NA,Sandstone,Coarse
-MW-12,48.8,57.6,Sandy siltstone,NA,NA,Sandy siltstone,Fine
+MW-12,48.8,57.6,Sandy siltstone,NA,NA,Sandy Siltstone,Fine
 MW-12,57.6,75.5,Sandstone,NA,NA,Sandstone,Coarse
-MW-12,75.5,77.8,Clay-Silty-Shaley,NA,NA,Silty Clay,Fine
+MW-12,75.5,77.8,Clay-Silty-Shaley,NA,NA,Shale,Fine
 MW-13,0,8.5,Clayey silt,NA,I think…..  (Page 90 of main pdf),Clayey silt,Fine
 MW-13,8.5,23,Siltstone,NA,NA,Siltstone,Fine
 MW-13,23,42.5,Sandstone,NA,NA,Sandstone,Coarse
 MW-13,42.5,43,Siltstone with clay,NA,NA,Siltstone,Fine
 MW-13,43,45.5,Silty sandstone,NA,NA,Sandstone,Coarse
 MW-13,45.5,54,Siltstone,NA,NA,Siltstone,Fine
-MW-13,54,69,Sandy shale,NA,NA,Sandy shale,Fine
+MW-13,54,69,Sandy shale,NA,NA,Shale,Fine
 MW-13,69,76,Sandstone,NA,NA,Sandstone,Coarse
-MW-13,76,78.2,Sandy shale,NA,NA,Sandy shale,Fine
+MW-13,76,78.2,Sandy shale,NA,NA,Shale,Fine
 MW-13,78.2,83,Sandstone,NA,NA,Sandstone,Coarse
-MW-13,83,100,Sandy shale,NA,NA,Sandy shale,Fine
-BG-MW01,0,4,Clayey silt,NA,NA,Clayey silt,Fine
-BG-MW01,4,11.5,Poorly graded sand,NA,NA,Sand,Coarse
-BG-MW01,11.5,37,Sandstone,NA,NA,Sandstone,Coarse
-BG-MW01,37,42.7,Silty clayey shaley,NA,NA,Silty Clay,Fine
-BG-MW01,42.7,92.9,Sandstone,NA,NA,Sandstone,Coarse
-BG-MW01,92.9,98,Finer grained sand,NA,NA,Sand,Coarse
-BG-MW01,98,103,Sandstone,NA,NA,Sandstone,Coarse
-BG-MW01,103,106.4,Siltstone (sandy),NA,NA,Siltstone,Fine
-BG-MW01,106.4,114,Sandstone,NA,NA,Sandstone,Coarse
+MW-13,83,100,Sandy shale,NA,NA,Shale,Fine
 MW-14,0,5,Silty clay with sand,NA,"check these close, they are hand written (MW14 and MW-15)",Silty clay,Fine
 MW-14,5,14,Silty sand,NA,NA,Sand,Coarse
-MW-14,14,27.4,Clay,NA,NA,Clay,Fine
-MW-14,27.4,34,Gray silty clay,NA,NA,Silty Clay,Fine
-MW-14,34,45,Gray salt & pepper sand,NA,really?,Sand,Coarse
-MW-14,45,55,Claystone,NA,NA,Claystone,Fine
+MW-14,14,27.4,Clay,NA,NA,Shale,Fine
+MW-14,27.4,34,Gray silty clay,NA,NA,Shale,Fine
+MW-14,34,45,Gray salt & pepper sand,NA,really?,Sandstone,Coarse
+MW-14,45,55,Claystone,NA,NA,Shale,Fine
 MW-15,0,10,Olive silty shaley clay,NA,???,Silty Clay,Fine
-MW-15,10,35,Sandy clay with silt,NA,NA,Sandy clay,Fine
-MW-15,35,55,Silty clay with sand,NA,NA,Silty clay,Fine
-MW-15,55,65,Clayey silt,NA,NA,Clayey silt,Fine
-IP-09,0,3,Clay,NA,NA,Clay,Fine
-IP-09,3,8,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-09,8,12,Clay,NA,NA,Clay,Fine
-IP-09,12,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-09,18,30,Clay,NA,NA,Clay,Fine
-IP-09,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-09,34,44,Sand,NA,NA,Sand,Coarse
-IP-53,0,5,Clay,NA,NA,Clay,Fine
-IP-53,5,21,Sand,NA,NA,Sand,Coarse
-IP-53,21,30,Clay,NA,NA,Clay,Fine
-IP-53,30,40,Sand,NA,NA,Sand,Coarse
-IP-53,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-55,0,6,Clay,NA,NA,Clay,Fine
-IP-55,6,22,Sand,NA,NA,Sand,Coarse
-IP-55,22,28,Clay,NA,NA,Clay,Fine
-IP-55,28,32,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-55,32,38,Sand,NA,NA,Sand,Coarse
-IP-55,38,42,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-55,42,50,Sand,NA,NA,Sand,Coarse
-IP-56,0,10,Clay,NA,NA,Clay,Fine
-IP-56,10,18,Sand,NA,NA,Sand,Coarse
-IP-56,18,24,Clay,NA,NA,Clay,Fine
-IP-56,24,30,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-56,30,46,Sand,NA,NA,Sand,Coarse
-IP-56,46,50,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-54,0,6,Clay,NA,NA,Clay,Fine
-IP-54,6,16,Sand,NA,NA,Sand,Coarse
-IP-54,16,28,Clay,NA,NA,Clay,Fine
-IP-54,28,40,Sand,NA,NA,Sand,Coarse
-IP-54,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-54,44,48,Sand,NA,NA,Sand,Coarse
-IP-54,48,52,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-43,0,8,Clay,NA,NA,Clay,Fine
-IP-43,8,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-43,18,32,Clay,NA,NA,Clay,Fine
-IP-43,32,40,Sand,NA,NA,Sand,Coarse
-IP-43,40,42,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-43,42,44,Clay,NA,NA,Clay,Fine
-IP-43,44,46,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-13,0,3,Clay,NA,NA,Clay,Fine
-IP-13,3,10,Sand,NA,NA,Sand,Coarse
-IP-13,10,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-13,20,31,Clay,NA,NA,Clay,Fine
-IP-13,31,44,Sand,NA,NA,Sand,Coarse
-IP-14,0,4,Clay,NA,NA,Clay,Fine
-IP-14,4,10,Sand,NA,NA,Sand,Coarse
-IP-14,10,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-14,20,31,Clay,NA,NA,Clay,Fine
-IP-14,31,40,Sand,NA,NA,Sand,Coarse
-IP-12,0,3,Clay,NA,NA,Clay,Fine
-IP-12,3,10,Sand,NA,NA,Sand,Coarse
-IP-12,10,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-12,18,31,Clay,NA,NA,Clay,Fine
-IP-12,31,44,Sand,NA,NA,Sand,Coarse
-IP-11,0,3,Clay,NA,NA,Clay,Fine
-IP-11,3,7,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-11,7,8,Clay,NA,NA,Clay,Fine
-IP-11,8,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-11,10,16,Sand,NA,NA,Sand,Coarse
-IP-11,16,20,Clay,NA,NA,Clay,Fine
-IP-11,20,24,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-11,24,32,Clay,NA,NA,Clay,Fine
-IP-11,32,44,Sand,NA,NA,Sand,Coarse
-IP-24,0,5,Clay,NA,NA,Clay,Fine
-IP-24,5,10,Sand,NA,NA,Sand,Coarse
-IP-24,10,16,Clay,NA,NA,Clay,Fine
-IP-24,16,24,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-24,24,32,Clay,NA,NA,Clay,Fine
-IP-24,32,40,Sand,NA,NA,Sand,Coarse
-IP-25,0,6,Clay,NA,NA,Clay,Fine
-IP-25,6,12,Sand,NA,NA,Sand,Coarse
-IP-25,12,24,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-25,24,31,Clay,NA,NA,Clay,Fine
-IP-25,31,42,Sand,NA,NA,Sand,Coarse
-IP-26,0,7,Clay,NA,NA,Clay,Fine
-IP-26,7,14,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-26,14,18,Sand,NA,NA,Sand,Coarse
-IP-26,18,28,Clay,NA,NA,Clay,Fine
-IP-26,28,42,Sand,NA,NA,Sand,Coarse
-IP-27,0,6,Clay,NA,NA,Clay,Fine
-IP-27,6,11,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-27,11,18,Sand,NA,NA,Sand,Coarse
-IP-27,18,23,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-27,23,28,Clay,NA,NA,Clay,Fine
-IP-27,28,32,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-27,32,40,Sand,NA,NA,Sand,Coarse
-IP-28,0,4,Clay,NA,NA,Clay,Fine
-IP-28,4,9,Sand,NA,NA,Sand,Coarse
-IP-28,9,19,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-28,19,24,Clay,NA,NA,Clay,Fine
-IP-28,24,28,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-28,28,36,Sand,NA,NA,Sand,Coarse
-IP-29,0,8,Clay,NA,NA,Clay,Fine
-IP-29,8,16,Sand,NA,NA,Sand,Coarse
-IP-29,16,22,Clay,NA,NA,Clay,Fine
-IP-29,22,25,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-29,25,40,Sand,NA,NA,Sand,Coarse
-IP-15,0,6,Clay,NA,NA,Clay,Fine
-IP-15,6,14,Sand,NA,NA,Sand,Coarse
-IP-15,14,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-15,20,30,Clay,NA,NA,Clay,Fine
-IP-15,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-15,34,40,Sand,NA,NA,Sand,Coarse
-IP-52,0,8,Clay,NA,NA,Clay,Fine
-IP-52,8,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-52,10,14,Sand,NA,NA,Sand,Coarse
-IP-52,14,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-52,18,22,Sand,NA,NA,Sand,Coarse
-IP-52,22,32,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-52,32,40,Clay,NA,NA,Clay,Fine
-IP-52,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-52,44,52,Sand,NA,NA,Sand,Coarse
-IP-49,0,8,Clay,NA,NA,Clay,Fine
-IP-49,8,12,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-49,12,22,Sand,NA,NA,Sand,Coarse
-IP-49,22,26,Clay,NA,NA,Clay,Fine
-IP-49,26,32,Clay,NA,NA,Clay,Fine
-IP-49,32,38,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-49,38,44,Sand,NA,NA,Sand,Coarse
-IP-49,44,50,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-51,0,6,Clay,NA,NA,Clay,Fine
-IP-51,6,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-51,10,20,Sand,NA,NA,Sand,Coarse
-IP-51,22,23,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-51,23,28,Sand,NA,NA,Sand,Coarse
-IP-51,28,32,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-51,32,36,Sand,NA,NA,Sand,Coarse
-IP-51,36,42,Clay,NA,NA,Clay,Fine
-IP-51,42,50,Sand,NA,NA,Sand,Coarse
-IP-48,0,4,Clay,NA,NA,Clay,Fine
-IP-48,4,12,Sand,NA,NA,Sand,Coarse
-IP-48,12,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-48,20,28,Clay,NA,NA,Clay,Fine
-IP-48,28,38,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-48,38,46,Sand,NA,NA,Sand,Coarse
-IP-47,0,4,Clay,NA,NA,Clay,Fine
-IP-47,4,12,Sand,NA,NA,Sand,Coarse
-IP-47,12,14,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-47,14,18,Clay,NA,NA,Clay,Fine
-IP-47,18,22,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-47,22,28,Clay,NA,NA,Clay,Fine
-IP-47,28,35,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-47,35,48,Sand,NA,NA,Sand,Coarse
-IP-46,0,6,Clay,NA,NA,Clay,Fine
-IP-46,6,12,Sand,NA,NA,Sand,Coarse
-IP-46,12,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-46,20,30,Clay,NA,NA,Clay,Fine
-IP-46,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-46,34,50,Sand,NA,NA,Sand,Coarse
-IP-23,0,6,Clay,NA,NA,Clay,Fine
-IP-23,6,12,Sand,NA,NA,Sand,Coarse
-IP-23,12,22,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-23,22,30,Clay,NA,NA,Clay,Fine
-IP-23,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-23,34,42,Sand,NA,NA,Sand,Coarse
-IP-44,0,6,Clay,NA,NA,Clay,Fine
-IP-44,6,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-44,10,16,Sand,NA,NA,Sand,Coarse
-IP-44,16,22,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-44,22,30,Clay,NA,NA,Clay,Fine
-IP-44,30,38,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-44,38,48,Sand,NA,NA,Sand,Coarse
-IP-45,0,6,Clay,NA,NA,Clay,Fine
-IP-45,6,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-45,10,14,Clay,NA,NA,Clay,Fine
-IP-45,14,30,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-45,30,34,Clay,NA,NA,Clay,Fine
-IP-45,34,38,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-45,38,42,Sand,NA,NA,Sand,Coarse
-IP-45,42,46,Clay,NA,NA,Clay,Fine
-IP-45,46,52,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-39,0,4,Clay,NA,NA,Clay,Fine
-IP-39,4,14,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-39,14,20,Clay,NA,NA,Clay,Fine
-IP-39,20,24,Sand,NA,NA,Sand,Coarse
-IP-39,24,42,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-05,0,6,Clay,NA,NA,Clay,Fine
-IP-05,6,13,Sand,NA,NA,Sand,Coarse
-IP-05,13,17,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-05,17,28,Clay,NA,NA,Clay,Fine
-IP-05,28,32,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-05,32,42,Sand,NA,NA,Sand,Coarse
-IP-06,0,7,Clay,NA,NA,Clay,Fine
-IP-06,7,14,Sand,NA,NA,Sand,Coarse
-IP-06,14,17,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-06,17,28,Clay,NA,NA,Clay,Fine
-IP-06,28,32,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-06,32,42,Sand,NA,NA,Sand,Coarse
-IP-10,0,5,Clay,NA,NA,Clay,Fine
-IP-10,5,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-10,10,17,Sand,NA,NA,Sand,Coarse
-IP-10,17,33,Clay,NA,NA,Clay,Fine
-IP-10,33,40,Sand,NA,NA,Sand,Coarse
-IP-03,0,2,Clay,NA,NA,Clay,Fine
-IP-03,2,6,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-03,6,10,Sand,NA,NA,Sand,Coarse
-IP-03,10,16,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-03,16,18,Sand,NA,NA,Sand,Coarse
-IP-03,18,22,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-03,22,32,Clay,NA,NA,Clay,Fine
-IP-03,32,42,Sand,NA,NA,Sand,Coarse
-IP-40,0,5,Clay,NA,NA,Clay,Fine
-IP-40,5,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-40,10,18,Sand,NA,NA,Sand,Coarse
-IP-40,18,29,Clay,NA,NA,Clay,Fine
-IP-40,29,31,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-40,31,44,Sand,NA,NA,Sand,Coarse
-IP-38,0,14,Clay,NA,NA,Clay,Fine
-IP-38,14,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-38,20,29,Clay,NA,NA,Clay,Fine
-IP-38,29,32,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-38,32,44,Sand,NA,NA,Sand,Coarse
-IP-37,0,6,Clay,NA,NA,Clay,Fine
-IP-37,6,16,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-37,16,30,Clay,NA,NA,Clay,Fine
-IP-37,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-37,34,40,Sand,NA,NA,Sand,Coarse
-IP-42,0,6,Clay,NA,NA,Clay,Fine
-IP-42,6,16,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-42,16,22,Clay,NA,NA,Clay,Fine
-IP-42,22,24,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-42,24,30,Clay,NA,NA,Clay,Fine
-IP-42,30,32,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-42,32,44,Sand,NA,NA,Sand,Coarse
-IP-34,0,5,Clay,NA,NA,Clay,Fine
-IP-34,5,14,Sand,NA,NA,Sand,Coarse
-IP-34,14,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-34,18,30,Clay,NA,NA,Clay,Fine
-IP-34,30,44,Sand,NA,NA,Sand,Coarse
-IP-34,44,50,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-33,0,4,Clay,NA,NA,Clay,Fine
-IP-33,4,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-33,10,16,Sand,NA,NA,Sand,Coarse
-IP-33,16,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-33,18,30,Clay,NA,NA,Clay,Fine
-IP-33,30,42,Sand,NA,NA,Sand,Coarse
-IP-33,42,46,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-32,0,4,Clay,NA,NA,Clay,Fine
-IP-32,4,12,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-32,12,20,Sand,NA,NA,Sand,Coarse
-IP-32,20,24,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-32,24,32,Clay,NA,NA,Clay,Fine
-IP-32,32,42,Sand,NA,NA,Sand,Coarse
-IP-31,0,2,Clay,NA,NA,Clay,Fine
-IP-31,2,15,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-31,15,24,Clay,NA,NA,Clay,Fine
-IP-31,24,28,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-31,28,38,Sand,NA,NA,Sand,Coarse
-IP-31,38,42,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-30,0,4,Clay,NA,NA,Clay,Fine
-IP-30,4,8,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-30,8,21,Clay,NA,NA,Clay,Fine
-IP-30,21,26,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-30,26,36,Sand,NA,NA,Sand,Coarse
-IP-30,36,42,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-22,0,4,Clay,NA,NA,Clay,Fine
-IP-22,4,16,Sand,NA,NA,Sand,Coarse
-IP-22,16,26,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-22,26,31,Clay,NA,NA,Clay,Fine
-IP-22,31,34,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-22,34,40,Sand,NA,NA,Sand,Coarse
-IP-22,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-18,0,4,Clay,NA,NA,Clay,Fine
-IP-18,4,16,Sand,NA,NA,Sand,Coarse
-IP-18,16,21,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-18,21,30,Clay,NA,NA,Clay,Fine
-IP-18,30,34,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-18,34,40,Sand,NA,NA,Sand,Coarse
-IP-18,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-17,0,2,Clay,NA,NA,Clay,Fine
-IP-17,2,8,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-17,8,13,Sand,NA,NA,Sand,Coarse
-IP-17,13,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-17,20,30,Clay,NA,NA,Clay,Fine
-IP-17,30,37,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-16,0,6,Clay,NA,NA,Clay,Fine
-IP-16,6,11,Sand,NA,NA,Sand,Coarse
-IP-16,11,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-16,20,33,Sand,NA,NA,Sand,Coarse
-IP-16,33,40,Sand,NA,NA,Sand,Coarse
-IP-08,0,2,Clay,NA,NA,Clay,Fine
-IP-08,2,9,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-08,9,12,Clay,NA,NA,Clay,Fine
-IP-08,12,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-08,20,30,Clay,NA,NA,Clay,Fine
-IP-08,30,44,Sand,NA,NA,Sand,Coarse
-IP-07,0,5,Clay,NA,NA,Clay,Fine
-IP-07,5,18,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-07,18,30,Clay,NA,NA,Clay,Fine
-IP-07,30,40,Sand,NA,NA,Sand,Coarse
-IP-07,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-02,0,2,Clay,NA,NA,Clay,Fine
-IP-02,2,10,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-02,10,20,Sand,NA,NA,Sand,Coarse
-IP-02,20,28,Clay,NA,NA,Clay,Fine
-IP-02,28,40,Sand,NA,NA,Sand,Coarse
-IP-02,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-01,0,2,Clay,NA,NA,Clay,Fine
-IP-01,2,8,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-01,8,13,Clay,NA,NA,Clay,Fine
-IP-01,13,22,Sand,NA,NA,Sand,Coarse
-IP-01,22,28,Clay,NA,NA,Clay,Fine
-IP-01,28,40,Sand,NA,NA,Sand,Coarse
-IP-01,40,44,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-04,0,2,Clay,NA,NA,Clay,Fine
-IP-04,2,13,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-04,13,16,Sand,NA,NA,Sand,Coarse
-IP-04,16,22,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-04,22,28,Clay,NA,NA,Clay,Fine
-IP-04,28,30,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-04,30,42,Sand,NA,NA,Sand,Coarse
-IP-35,0,6,Clay,NA,NA,Clay,Fine
-IP-35,6,12,Sand,NA,NA,Sand,Coarse
-IP-35,12,20,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-35,20,24,Clay,NA,NA,Clay,Fine
-IP-35,24,31,Clayey Sand,NA,NA,Clayey Sand,Coarse
-IP-35,31,48,Sand,NA,NA,Sand,Coarse
+MW-15,10,35,Sandy clay with silt,NA,NA,Sandy Claystone,Fine
+MW-15,35,55,Silty clay with sand,NA,NA,Shale,Fine
+MW-15,55,65,Clayey silt,NA,NA,Shale,Fine
+MW-2,0,0.5,Clay,NA,NA,Clay,Fine
+MW-2,0.5,5,Sand,NA,NA,Sand,Coarse
+MW-2,5,6,Clay,NA,NA,Clay,Fine
+MW-2,6,19,Sand,NA,NA,Sand,Coarse
+MW-2,19,29.5,Silty Clay,Clayey SLT,NA,Shale,Fine
+MW-2,29.5,34,Clay,Slightly Silty,NA,Shale,Fine
+MW-2,34,34.9,Sand,NA,NA,Sandstone,Coarse
+MW-2,34.9,44,Clay,NA,NA,Shale,Fine
+MW-2,44,60,Sand,NA,NA,Sandstone,Coarse
+MW-3,0,3.5,Clay,NA,NA,Clay,Fine
+MW-3,3.5,8.8,Sand,NA,NA,Sand,Coarse
+MW-3,8.8,34,Clay,NA,NA,Shale,Fine
+MW-3,34,40,Sand,NA,NA,Sandstone,Coarse
+MW-3,40,44,Clayey Sand,Sandy Clay,NA,Clayey Sandstone,Coarse
+MW-3,44,55,Clay,NA,NA,Shale,Fine
+MW-4,0,4,Clayey Sand,NA,NA,Clayey Sand,Coarse
+MW-4,4,13.6,Silty Clay,Sandy Clay,"at 8.1 it says ""same as above"" Sandy Clay",Silty Clay,Fine
+MW-4,13.6,18,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+MW-4,18,30.7,Silty Clay,Sandy Clay,same comment as above on line 22.2,Shale,Fine
+MW-4,30.7,31,Sand,NA,NA,Sandstone,Coarse
+MW-4,31,31.3,Sandy Clay,NA,NA,Sandy Claystone,Fine
+MW-4,31.3,44.6,Sand,NA,NA,Sandstone,Coarse
+MW-4,44.6,46.2,Silty Clay,NA,NA,Shale,Fine
+MW-4,46.2,57.4,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+MW-4,57.4,60,Clayey Silt,NA,NA,Shale,Fine
+MW-4,60,63.5,Clay,NA,NA,Shale,Fine
+MW-6,0,5.3,Sandy Clay,NA,NA,Sandy Clay,Fine
+MW-6,5.3,21,Sand,NA,NA,Sand,Coarse
+MW-6,21,26,Sandy Clay,NA,NA,Sandy Claystone,Fine
+MW-6,26,27.5,Sand,NA,NA,Sandstone,Coarse
+MW-6,27.5,32.5,Sandy Clay,NA,NA,Sandy Claystone,Fine
+MW-6,32.5,40.1,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+MW-6,40.1,46.2,Sand,NA,NA,Sandstone,Coarse
+MW-6,41.8,46.2,Sand,NA,NA,Sandstone,Coarse
+MW-6,46.2,48.2,Clay,NA,NA,Shale,Fine
+MW-6,48.2,49.2,Sand,NA,NA,Sandstone,Coarse
+MW-6,49.2,50,Clay,Sandy Clay,NA,Shale,Fine
+MW-6,50,62.6,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+MW-6,62.6,83,Sand,NA,NA,Sandstone,Coarse
+MW-6,83,84.5,Clay,NA,NA,Shale,Fine
+MW-7,0,5.5,Clayey Sand,NA,NA,Clayey Sand,Coarse
+MW-7,5.5,9.1,Sandy Clay,NA,NA,Sandy Clay,Fine
+MW-7,9.1,13.4,Silty Clay,NA,NA,Shale,Fine
+MW-7,13.4,15.1,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+MW-7,15.1,26.1,Sand,NA,NA,Sandstone,Coarse
+MW-7,26.1,27.5,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+MW-7,27.5,30,Sand,NA,NA,Sandstone,Coarse
+MW-7,30,42.8,Silty Clay,NA,NA,Shale,Fine
+MW-7,42.8,51,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+MW-7,51,59,Clay,NA,NA,Shale,Fine
+MW-7,59,64,Silty Clay,NA,NA,Shale,Fine
+MW-8,0,3,Silty Clay,NA,NA,Silty Clay,Fine
+MW-8,3,8.7,Clayey Sand,NA,NA,Clayey Sand,Coarse
+MW-8,8.7,11.8,Sand,NA,NA,Sandstone,Coarse
+MW-8,11.8,11.9,Thin Clay Bed,NA,NA,Shale,Fine
+MW-8,11.9,22.5,Sand,NA,NA,Sandstone,Coarse
+MW-8,22.5,34.7,Silty Clay,NA,NA,Shale,Fine
+MW-8,34.7,46.7,Clayey Sand,NA,NA,Clayey Sandstone,Coarse
+MW-8,46.7,66,Sand,NA,NA,Sandstone,Coarse
+MW-8,66,69,Clay,NA,NA,Shale,Fine
+MW-9,0,12.4,Sandy Silty Clay,NA,NA,Silty Clay,Fine
+MW-9,12.4,16,Sand,NA,NA,Sandstone,Coarse
+MW-9,16,24.7,Sandstone,NA,NA,Sandstone,Coarse
+MW-9,24.7,28,Claystone,NA,NA,Shale,Fine
