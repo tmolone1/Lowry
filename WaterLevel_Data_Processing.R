@@ -6,6 +6,7 @@ library(readxl)
 library(gstat)
 collar<-read_csv("collar.csv") # from output of "WriteCollar&LithologyFiles.R"
 water_levels<-read_excel("L1B Water Levels.1.xlsx", col_types=c("text", "date", "numeric", "text", "numeric"))
+write_csv(water_levels, "April2020_WaterLevels.csv")
 water_levels[water_levels$LOCID=='BGMW-01',]$LOCID<-"BG-MW01"  # fix mismatched ID typo
 
 # create SPDF from collar file
