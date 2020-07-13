@@ -6,7 +6,6 @@ library(readxl)
 library(gstat)
 collar<-read_csv("collar.csv") # from output of "WriteCollar&LithologyFiles.R"
 water_levels<-read_excel("L1B Water Levels.1.xlsx", col_types=c("text", "date", "numeric", "text", "numeric"))
-write_csv(water_levels, "April2020_WaterLevels.csv")
 water_levels[water_levels$LOCID=='BGMW-01',]$LOCID<-"BG-MW01"  # fix mismatched ID typo
 
 # create SPDF from collar file
@@ -19,6 +18,7 @@ points(Wells_points[Wells_points$LOCATION %in% water_levels$LOCID,],pch=15)# dis
 
 # merge XY coordinates from collar file to water levels sheet
 water_levels<-merge(collar[,c(1:3)],water_levels,by.x=1,by.y=1,all.y=TRUE)
+write_csv(water_levels, "April2020_WaterLevels.csv")
 
 # create SPDF from water level data and write shapefile
 WL_pts <- SpatialPointsDataFrame(water_levels[,c(3,2)], 
