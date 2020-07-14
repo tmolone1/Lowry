@@ -69,12 +69,17 @@ depth<-c(63.71, 62.11, 53.43, 66.09, 48.63, 86.18, 64.87, 69.49, 29.85, 61.15, 6
 new<-data.frame(n,depth-10,depth)
 colnames(new)<-colnames(screens)
 screens<-rbind(screens[!(screens$`Hole ID` %in% new$`Hole ID`),],new)
-screens<-merge(screens, water_levels[,c("LOCATION","GW ELEV")], by.x= 1,by.y=1, all.y=TRUE)
+screens<-merge(screens, water_levels[,c("LOCATION","TOC ELEV","GW ELEV")], by.x= 1,by.y=1, all.y=TRUE)
 screens<-screens[!is.na(screens$`GW ELEV`),]
 screens[is.na(screens$screen.bottom),]$screen.top<-34
 screens[is.na(screens$screen.bottom),]$screen.bottom<-44
+screens$depthGW<-screens$`TOC ELEV`-screens$`GW ELEV`
+#if the water is below the bottom of the assumed screen interval, adjust the screened interval downward
+screens[screens$screen.bottom<screens$depthGW,]$screen.top<-screens[screens$screen.bottom<screens$depthGW,]$depthGW-8
+screens[screens$screen.bottom<screens$depthGW,]$screen.bottom<-screens[screens$screen.bottom<screens$depthGW,]$depthGW+2
 screens$flatID<-"Well"
 write_csv(screens, "well_screens.csv")
+
 
 # contour at specified interval and write to line shapefile
 cl<-rasterToContour(krig1, levels=as.numeric(seq(6000,6070,5))) # 5 ft contour interval
